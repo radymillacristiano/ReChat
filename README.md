@@ -23,8 +23,8 @@ Em um mundo onde os impactos das atividades humanas no meio ambiente são cada v
 
 ### 🔜 Próximos Passos
 
-- Desenvolver front-end da aplicação web.
-- Implementar o chat dentro do front-end.
+- Desenvolver front-end da plataforma web.
+- Integrar o chat dentro da aplicação.
 - Aumentar as utilidades do chat, por exemplo, para empresas e serviços específicos.
 
 
