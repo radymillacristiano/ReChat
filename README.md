@@ -1,8 +1,6 @@
-# 🤖 ReChat
-
 ![image](https://github.com/radymillacristiano/ReChat/assets/88601069/30e19649-9630-498d-a90f-bf90e532e2d5)
 
-O ReChat é o seu aliado na jornada para enfrentar a urgência das mudanças climáticas. Em um mundo onde os impactos das atividades humanas no meio ambiente são cada vez mais evidentes, é crucial que tomemos medidas práticas para mitigar esses efeitos. O ReChat é uma solução inovadora desenvolvida durante a **ImersãoIA** pela **Alura e Google**.
+Em um mundo onde os impactos das atividades humanas no meio ambiente são cada vez mais evidentes, é crucial que tomemos medidas práticas para mitigar esses efeitos. E o **ReChat** é o seu aliado nessa jornada! 
 
 ### 🚀 Funcionalidades
 
@@ -28,3 +26,6 @@ O ReChat é o seu aliado na jornada para enfrentar a urgência das mudanças cli
 - Desenvolver front-end da aplicação web.
 - Implementar o chat dentro do front-end.
 - Aumentar as utilidades do chat, por exemplo, para empresas e serviços específicos.
+
+
+Projeto desenvolvido durante a **Imersão IA** pela **Alura** e **Google**
